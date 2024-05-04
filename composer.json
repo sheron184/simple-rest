@@ -1,0 +1,19 @@
+{
+    "name": "sjtech/simple-rest",
+    "description": "Simple REST API handler in php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sjtech\\": "src/",
+            "Sjtech\\SimpleRest\\": "src/Router"
+        }
+    },
+    "authors": [
+        {
+            "name": "sheron184",
+            "email": "sheronjude4@gmail.com"
+        }
+    ],
+    "require": {}
+}
